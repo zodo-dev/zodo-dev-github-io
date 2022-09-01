@@ -38,19 +38,19 @@
           "description": "for anyone account types to use custom domain",
           "type": "string"
         }
-      },
-      "resources": {
-        "description": "Name of the product",
-        "type": "object",
-        "properties": {
-          "cpu": {
-            "description": "Name of the product",
-            "type": "number"
-          },
-          "memory": {
-            "description": "Name of the product",
-            "type": "integer"
-          }
+      }
+    },
+    "resources": {
+      "description": "Name of the product",
+      "type": "object",
+      "properties": {
+        "cpu": {
+          "description": "Name of the product",
+          "type": "number"
+        },
+        "memory": {
+          "description": "Name of the product",
+          "type": "integer"
         }
       }
     }
