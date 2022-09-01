@@ -52,8 +52,8 @@
             "type": "integer"
           }
         }
-      },
-      "required": ["name", "service", "cmd"]
+      }
     }
-  }
+  },
+  "required": ["name", "service", "cmd"]
 }
