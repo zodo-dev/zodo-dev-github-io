@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://schema.zodo.dev/json/zcloud.config.schema.json",
+  "$id": "https://gh.zodo.dev/schemas/json/zcloud.config.schema.json",
   "title": "ZCloud Service Config",
   "description": "Configuration for Zcloud services",
   "type": "object",
